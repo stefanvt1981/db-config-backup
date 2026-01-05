@@ -1,0 +1,12 @@
+﻿drop table "__EFMigrationsHistory";
+drop table "Applicaties";
+drop table "Beheerders";
+drop table "Gebruikers";
+drop table "Groepen";
+drop table "IbRters";
+drop table "Instellingen" CASCADE;
+drop table "Leerlingen";
+drop table "Licenties";
+drop table "Medewerkers";
+drop table "Methodes";
+drop table "Toekenningen";

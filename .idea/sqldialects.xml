@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/70ba13ba-a41a-46cb-9214-90f7d8f73461/console_11.sql" dialect="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/70ba13ba-a41a-46cb-9214-90f7d8f73461/console_14.sql" dialect="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/70ba13ba-a41a-46cb-9214-90f7d8f73461/console_15.sql" dialect="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/8caa5176-1231-4995-9aae-e632de3142e7/console_6.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_19.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_22.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_23.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_30.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_37.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_40.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_41.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_48.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_49.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_50.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_51.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_52.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_7.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/console_6.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../../../../dev/zwijsen/csharp/z-identity-access-management/docs/AVG/Scripts/DeleteData.sql" dialect="PostgreSQL" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+﻿select * from "Gebruikers" where "Eckid" is not null

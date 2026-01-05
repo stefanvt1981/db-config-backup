@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="dbSrc:///feebbf53/8caa5176-1231-4995-9aae-e632de3142e7/database/ziam/schema/public/routine/get_instelling_gebruikers_toekenningen@(uuid).sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/8caa5176-1231-4995-9aae-e632de3142e7/console_7.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/8caa5176-1231-4995-9aae-e632de3142e7/console_8.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/8caa5176-1231-4995-9aae-e632de3142e7/console_9.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/a96519f1-445c-42b2-a8c6-aa9e525c7681/console_11.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d23bc214-9401-4637-aed2-e0b2bdf3b0d9/console_1.sql" value="d23bc214-9401-4637-aed2-e0b2bdf3b0d9" />
+    <file url="file://$PROJECT_DIR$/queries/Query.sql" value="7001f3e3-28e0-44f7-b651-34c462529552" />
+    <file url="file://$PROJECT_DIR$/queries/Query_1.sql" value="7001f3e3-28e0-44f7-b651-34c462529552" />
+    <file url="file://$PROJECT_DIR$/queries/Query_10.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_11.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_12.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_13.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_14.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_15.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_16.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_17.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_18.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_19.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_2.sql" value="7001f3e3-28e0-44f7-b651-34c462529552" />
+    <file url="file://$PROJECT_DIR$/queries/Query_20.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_21.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_22.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_23.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_24.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$PROJECT_DIR$/queries/Query_25.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$PROJECT_DIR$/queries/Query_26.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$PROJECT_DIR$/queries/Query_27.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$PROJECT_DIR$/queries/Query_28.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$PROJECT_DIR$/queries/Query_29.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$PROJECT_DIR$/queries/Query_3.sql" value="7001f3e3-28e0-44f7-b651-34c462529552" />
+    <file url="file://$PROJECT_DIR$/queries/Query_30.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$PROJECT_DIR$/queries/Query_31.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_32.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_33.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_34.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_35.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_36.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_37.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_38.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_39.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_4.sql" value="7001f3e3-28e0-44f7-b651-34c462529552" />
+    <file url="file://$PROJECT_DIR$/queries/Query_40.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_41.sql" value="a96519f1-445c-42b2-a8c6-aa9e525c7681" />
+    <file url="file://$PROJECT_DIR$/queries/Query_42.sql" value="b6093f6b-a14c-4d20-bf04-853737d5459d" />
+    <file url="file://$PROJECT_DIR$/queries/Query_43.sql" value="b6093f6b-a14c-4d20-bf04-853737d5459d" />
+    <file url="file://$PROJECT_DIR$/queries/Query_44.sql" value="dba3479f-070f-487a-ada4-4540c047accc" />
+    <file url="file://$PROJECT_DIR$/queries/Query_45.sql" value="276b3c4c-1e90-42db-8082-456052d5c201" />
+    <file url="file://$PROJECT_DIR$/queries/Query_46.sql" value="1d9156ae-b53d-471b-8708-f12b66174487" />
+    <file url="file://$PROJECT_DIR$/queries/Query_47.sql" value="a3f9fe45-809b-4910-9810-dc9a8d4baaad" />
+    <file url="file://$PROJECT_DIR$/queries/Query_48.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$PROJECT_DIR$/queries/Query_49.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$PROJECT_DIR$/queries/Query_5.sql" value="7001f3e3-28e0-44f7-b651-34c462529552" />
+    <file url="file://$PROJECT_DIR$/queries/Query_50.sql" value="8caa5176-1231-4995-9aae-e632de3142e7" />
+    <file url="file://$PROJECT_DIR$/queries/Query_51.sql" value="1d9156ae-b53d-471b-8708-f12b66174487" />
+    <file url="file://$PROJECT_DIR$/queries/Query_52.sql" value="1d9156ae-b53d-471b-8708-f12b66174487" />
+    <file url="file://$PROJECT_DIR$/queries/Query_6.sql" value="d23bc214-9401-4637-aed2-e0b2bdf3b0d9" />
+    <file url="file://$PROJECT_DIR$/queries/Query_7.sql" value="d23bc214-9401-4637-aed2-e0b2bdf3b0d9" />
+    <file url="file://$PROJECT_DIR$/queries/Query_8.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+    <file url="file://$PROJECT_DIR$/queries/Query_9.sql" value="70ba13ba-a41a-46cb-9214-90f7d8f73461" />
+  </component>
+</project>

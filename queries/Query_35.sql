@@ -1,0 +1,1 @@
+﻿select * from "Instellingen" where "CrmRelatieNummer" = '100012314'

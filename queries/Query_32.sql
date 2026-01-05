@@ -1,0 +1,1 @@
+﻿select * from "Gebruikers" where "ZipperGebruikerIdentificatie" = '00013c1c-0003-8000-0000-7a6970706572'

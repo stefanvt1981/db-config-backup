@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="0@redis.private.dev.platform.zwijsen.nl" uuid="d9024f7b-6364-42f1-a5cc-87bf481e6c0c">
+      <driver-ref>redis</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>jdbc.RedisDriver</jdbc-driver>
+      <jdbc-url>jdbc:redis://redis.private.dev.platform.zwijsen.nl:6379/0</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="zwitch@zwis/cis_acc" uuid="7b84c0a6-2438-49ef-8bd4-0ffb7e807322">
+      <driver-ref>sqlserver.jb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.jetbrains.jdbc.sqlserver.SqlServerDriver</jdbc-driver>
+      <jdbc-url>Server=127.0.0.1,1234;Database=cis_acc</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="zwitch@zwis/cis_prod" uuid="7001f3e3-28e0-44f7-b651-34c462529552">
+      <driver-ref>sqlserver.jb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.jetbrains.jdbc.sqlserver.SqlServerDriver</jdbc-driver>
+      <jdbc-url>Server=127.0.0.1,1234;Database=cis_prod</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Test ziam_owner@dev/ziam" uuid="d23bc214-9401-4637-aed2-e0b2bdf3b0d9">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:9876/ziam</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="AWS.RdsSigningPort" value="5432" />
+        <property name="AWS.RegionId" value="eu-west-1" />
+        <property name="AWS.CredentialId" value="profile:platform-Test" />
+        <property name="AWS.RdsSigningHost" value="ziam-database-proxy.proxy-cblupgc1jmv7.eu-west-1.rds.amazonaws.com" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Prod ziam_owner@dev/ziam" uuid="70ba13ba-a41a-46cb-9214-90f7d8f73461">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:9876/ziam</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="AWS.RdsSigningPort" value="5432" />
+        <property name="AWS.RegionId" value="eu-west-1" />
+        <property name="AWS.CredentialId" value="profile:platform-Prod" />
+        <property name="AWS.RdsSigningHost" value="ziam-database-proxy.proxy-chiibxsiqxnt.eu-west-1.rds.amazonaws.com" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Dev ziam_owner@dev/ziam" uuid="8caa5176-1231-4995-9aae-e632de3142e7">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:9876/ziam</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="AWS.RdsSigningPort" value="5432" />
+        <property name="AWS.RegionId" value="eu-west-1" />
+        <property name="AWS.CredentialId" value="profile:platform-Dev" />
+        <property name="AWS.RdsSigningHost" value="ziam-database-proxy.proxy-co0wnguudubv.eu-west-1.rds.amazonaws.com" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Acc ziam_owner@dev/ziam" uuid="a96519f1-445c-42b2-a8c6-aa9e525c7681">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:9876/ziam</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="AWS.RdsSigningPort" value="5432" />
+        <property name="AWS.RegionId" value="eu-west-1" />
+        <property name="AWS.CredentialId" value="profile:platform-Acc" />
+        <property name="AWS.RdsSigningHost" value="ziam-database-proxy.proxy-crwhfexkjtbo.eu-west-1.rds.amazonaws.com" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@localhost" uuid="b6093f6b-a14c-4d20-bf04-853737d5459d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ZipperLoginDev" uuid="dba3479f-070f-487a-ada4-4540c047accc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:9877/ZipperLogin</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="AWS.RdsSigningPort" value="5432" />
+        <property name="AWS.RegionId" value="eu-west-1" />
+        <property name="AWS.CredentialId" value="profile:beheer-Dev" />
+        <property name="AWS.RdsSigningHost" value="zipperlogin-database-proxy.proxy-cl668606utdg.eu-west-1.rds.amazonaws.com" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ZipperLoginTest" uuid="276b3c4c-1e90-42db-8082-456052d5c201">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:9877/ZipperLogin</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="AWS.RdsSigningPort" value="5432" />
+        <property name="AWS.RegionId" value="eu-west-1" />
+        <property name="AWS.CredentialId" value="profile:beheer-Test" />
+        <property name="AWS.RdsSigningHost" value="zipperlogin-database-proxy.proxy-c7k0cwyuge46.eu-west-1.rds.amazonaws.com" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ZipperLoginAcc" uuid="1d9156ae-b53d-471b-8708-f12b66174487">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:9877/ZipperLogin</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="AWS.RdsSigningPort" value="5432" />
+        <property name="AWS.RegionId" value="eu-west-1" />
+        <property name="AWS.CredentialId" value="profile:beheer-Acc" />
+        <property name="AWS.RdsSigningHost" value="zipperlogin-database-proxy.proxy-cpoogey4wf4e.eu-west-1.rds.amazonaws.com" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ZipperLoginProd" uuid="a3f9fe45-809b-4910-9810-dc9a8d4baaad">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:9877/ZipperLogin</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="AWS.RdsSigningPort" value="5432" />
+        <property name="AWS.RegionId" value="eu-west-1" />
+        <property name="AWS.CredentialId" value="profile:beheer-Prod" />
+        <property name="AWS.RdsSigningHost" value="zipperlogin-database-proxy.proxy-cn4iqu6i0jtg.eu-west-1.rds.amazonaws.com" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

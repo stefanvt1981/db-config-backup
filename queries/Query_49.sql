@@ -1,0 +1,1 @@
+﻿GRANT TEMP ON DATABASE ziam TO ziam_applications;

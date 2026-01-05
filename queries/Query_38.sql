@@ -1,0 +1,1 @@
+﻿select * from "Methodes" where "Code" = 'knskr-v1'

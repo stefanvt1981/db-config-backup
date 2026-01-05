@@ -1,0 +1,1 @@
+﻿select * from "Instellingen" where "Brincode" = '17GW' and "DependanceCode" = '52'

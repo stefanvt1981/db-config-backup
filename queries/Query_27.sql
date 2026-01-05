@@ -1,0 +1,1 @@
+﻿select * from "Instellingen" where "Id" in (select "Licenties"."InstellingId" from "Licenties") and "IdentityProviderSchoolId" is null

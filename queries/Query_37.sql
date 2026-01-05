@@ -1,0 +1,1 @@
+﻿select * from "Licenties" where "MethodeCode" = 'knskr_v1'

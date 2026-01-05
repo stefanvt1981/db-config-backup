@@ -1,0 +1,1 @@
+﻿select * from public.get_instelling_gebruikers_toekenningen(p_instelling_id := 'a3741d71-649d-461c-ab68-dbb2cfce968d');

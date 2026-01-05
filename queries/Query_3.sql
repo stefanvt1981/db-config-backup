@@ -1,0 +1,1 @@
+﻿select * from Member m, Student s where SchoolId = 2362 and s.MemberId = m.MemberId
