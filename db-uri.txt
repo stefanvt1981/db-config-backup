@@ -1,0 +1,19 @@
+ziam_owner 9876
+
+
+ziam-database-proxy.proxy-co0wnguudubv.eu-west-1.rds.amazonaws.com
+ziam-database-proxy.proxy-cblupgc1jmv7.eu-west-1.rds.amazonaws.com 5432
+ziam-database-proxy.proxy-crwhfexkjtbo.eu-west-1.rds.amazonaws.com
+ziam-database-proxy.proxy-chiibxsiqxnt.eu-west-1.rds.amazonaws.com
+
+ZipperLogin_owner
+9877
+zipperlogin-database-proxy.proxy-cl668606utdg.eu-west-1.rds.amazonaws.com
+zipperlogin-database-proxy.proxy-c7k0cwyuge46.eu-west-1.rds.amazonaws.com
+zipperlogin-database-proxy.proxy-cpoogey4wf4e.eu-west-1.rds.amazonaws.com
+zipperlogin-database-proxy.proxy-cn4iqu6i0jtg.eu-west-1.rds.amazonaws.com
+
+zwitch
+
+Server=127.0.0.1,1234;Database=cis_acc
+Server=127.0.0.1,1234;Database=cis_prod
